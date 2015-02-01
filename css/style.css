@@ -13,9 +13,9 @@
 /*Variant of buttons*/
 /*Pi button styles*/
 .pi-big {
-  padding: 20px 15px;
-  letter-spacing: 0.5em;
-  border-radius: 5px;
+  padding: 20px 20px;
+  letter-spacing: 0.2em;
+  border-radius: 10px;
   margin-bottom: 1px;
   display: inline-block;
   font-family: "Monostate", sans-serif;
@@ -24,19 +24,28 @@
   color: #ffffff; }
 
 .pi-default {
-  background-color: #32A367; }
+  background-color: #32A367;
+  border: solid 1px #001728; }
 
 .pi-primary {
-  background-color: #0093FC; }
+  background-color: #0093FC;
+  border: solid 1px #001728; }
 
 .pi-night {
-  background-color: #293C40; }
+  background-color: #293C40;
+  border: solid 1px #001728; }
 
 .pi-warn {
-  background-color: #BF4724; }
+  background-color: #BF4724;
+  border: solid 1px #001728; }
 
 .pi-retro {
-  background-color: #5A3779; }
+  background-color: #5A3779;
+  border: solid 1px #001728; }
+
+.pi-water {
+  background-color: #C6C4C8;
+  border: solid 1px #001728; }
 
 /* Core mixins */
 /*Various kinds of colors and stuff*/

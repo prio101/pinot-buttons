@@ -3,5 +3,6 @@
 @mixin variant($variant){
 
   background-color:$variant;
+  border:solid 1px $border-color ;
 
 }
