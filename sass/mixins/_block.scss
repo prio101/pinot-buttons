@@ -1,6 +1,7 @@
 /*Block buttons*/
 @mixin block(){
   width: 100%;
+  display: block;
   text-align: center;
 
 }

@@ -1,36 +1,14 @@
-# PI  Buttons
+# Pinot Buttons
+---
 
-**The styles need to be done**
+![Pinot Logo]()
 
-* Styles
+[Website]()
 
-* Different states
+## Features:
 
-* Then go for specific extra styles
+* SASS Made
+* Highly Customizable
+* Cutting Edge Technology
+* Elegant Look
 
-## PI States
-
-**Must complete states**
-
-* :active ,
-* .active ,
-* :hover ,
-* :focus ,
-* .focus ,
-* .disabled,
-* [disabled]
-
-## PI Extra Features
-
-**Some extra styles**
-
- * 3d button
- * Flat button
- * Icon buttons
-
-## PI Group Buttons
-
-**group buttons**
-
-* Group Buttons
-* And its script maybe

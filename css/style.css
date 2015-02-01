@@ -58,6 +58,7 @@
 
 .pi-block {
   width: 100%;
+  display: block;
   text-align: center; }
 
 /*This is the various styles of colors*/
