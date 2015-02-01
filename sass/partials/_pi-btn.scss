@@ -62,3 +62,10 @@
 }
 
 
+.pi-3d{
+  @include three-d();
+}
+
+.pi-flat{
+  @include flat() ;
+}

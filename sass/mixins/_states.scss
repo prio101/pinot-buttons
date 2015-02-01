@@ -9,9 +9,11 @@
     }
 
     &.disabled,[disabled]{
+    @include opacity();
         &:hover,&:focus,&.focus,&:active,&.active{
         background-color:$background-color;
         border-color: lighten($border-color,10%);
+
         }
     }
 
