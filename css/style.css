@@ -8,6 +8,7 @@
 /*Styles for different states*/
 /*3d style button*/
 /*Making flat styles*/
+/*Block buttons*/
 /* Add the partials */
 /* List of vars */
 /* Mixnis */
@@ -54,6 +55,10 @@
   color: #ffffff;
   line-height: 0.1em;
   text-decoration: none; }
+
+.pi-block {
+  width: 100%;
+  text-align: center; }
 
 /*This is the various styles of colors*/
 .pi-default {
@@ -134,6 +139,7 @@
       background-color: #C6C4C8;
       border-color: #00345b; }
 
+/*Extra button styles*/
 .pi-3d {
   box-shadow: 0px 4px 0px #1E2721; }
 
@@ -146,5 +152,6 @@
 /*Styles for different states*/
 /*3d style button*/
 /*Making flat styles*/
+/*Block buttons*/
 
 /*# sourceMappingURL=style.css.map */

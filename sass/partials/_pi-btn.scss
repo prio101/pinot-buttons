@@ -22,7 +22,12 @@
 }
 
 
+//Block size
+.pi-block{
 
+  @include block();
+
+}
 
 
 
@@ -62,6 +67,7 @@
 }
 
 
+/*Extra button styles*/
 .pi-3d{
   @include three-d();
 }
