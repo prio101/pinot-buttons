@@ -3,19 +3,26 @@
 /* Mixnis */
 
 /* mixin sizes */
-$letter-spacing: 0.2em;
-$border-radius:10px;
+$letter-spacing: 0.1em;
+$border-radius:6px;
 $margin-bottom:1px;
 
 //Sizes for different sizes
 
 $padding-horizontal-big:20px;
 $padding-vertical-big:20px;
+$padding-horizontal-mid:10px;
+$padding-vertical-mid:10px;
+$padding-horizontal-small:8px;
+$padding-vertical-small:8px;
+
 
 
 /* Typo */
 $font-family:"Monostate",sans-serif;
-$font-size: 1em;
+$font-size-big: 1em;
+$font-size-mid:.8em;
+$font-size-small:.5em;
 $font-weight: 600;
 $font-color:#ffffff;
 

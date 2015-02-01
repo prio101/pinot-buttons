@@ -12,10 +12,11 @@
 /* Typo */
 /*Variant of buttons*/
 /*Pi button styles*/
+/*Sizes of the various kinds*/
 .pi-big {
   padding: 20px 20px;
-  letter-spacing: 0.2em;
-  border-radius: 10px;
+  letter-spacing: 0.1em;
+  border-radius: 6px;
   margin-bottom: 1px;
   display: inline-block;
   font-family: "Monostate", sans-serif;
@@ -23,6 +24,29 @@
   font-size: 1em;
   color: #ffffff; }
 
+.pi-mid {
+  padding: 10px 10px;
+  letter-spacing: 0.1em;
+  border-radius: 6px;
+  margin-bottom: 1px;
+  display: inline-block;
+  font-family: "Monostate", sans-serif;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #ffffff; }
+
+.pi-small {
+  padding: 8px 8px;
+  letter-spacing: 0.1em;
+  border-radius: 6px;
+  margin-bottom: 1px;
+  display: inline-block;
+  font-family: "Monostate", sans-serif;
+  font-weight: 600;
+  font-size: 0.5em;
+  color: #ffffff; }
+
+/*This is the various styles of colors*/
 .pi-default {
   background-color: #32A367;
   border: solid 1px #001728; }

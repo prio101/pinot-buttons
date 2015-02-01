@@ -1,6 +1,6 @@
-@mixin typo(){
-	font-family: $font-family;
+@mixin typo($size){
+    font-family: $font-family;
 	font-weight: $font-weight;
-	font-size: $font-size;
+	font-size: $size;
   	color:$font-color;
 }

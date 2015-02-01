@@ -1,13 +1,33 @@
 /*Pi button styles*/
 
+/*Sizes of the various kinds*/
+//This is the big size
 .pi-big{
   @include sizes($padding-horizontal-big,$padding-vertical-big);
-  @include typo();
+  @include typo($font-size-big);
+}
+
+//This is the medium size
+.pi-mid{
+ @include sizes($padding-horizontal-mid,$padding-vertical-mid);
+ @include typo($font-size-mid);
+
+}
+
+//This is the small size
+.pi-small{
+  @include sizes($padding-horizontal-small,$padding-vertical-small);
+  @include typo($font-size-small);
+
 }
 
 
 
 
+
+
+
+/*This is the various styles of colors*/
 .pi-default{
 
   @include variant($pi-default);
