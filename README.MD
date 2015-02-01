@@ -1,9 +1,9 @@
 # Pinot Buttons
 ---
 
-![Pinot Logo]()
+![Pinot Logo](https://raw.githubusercontent.com/prio101/pinot-buttons/master/logo.jpg)
 
-[Website]()
+[Website](http://prio101.github.io/pinot-buttons/)
 
 ## Features:
 
