@@ -1,0 +1,32 @@
+/*Pi button styles*/
+
+.pi-big{
+  @include sizes($padding-horizontal-big,$padding-vertical-big);
+  @include typo();
+}
+
+
+
+
+.pi-default{
+
+  @include variant($pi-default);
+}
+
+.pi-primary{
+  @include variant($pi-primary) ;
+
+}
+
+.pi-night{
+  @include variant($pi-night);
+}
+
+.pi-warn{
+  @include variant($pi-warning);
+}
+
+.pi-retro{
+  @include variant($pi-retro);
+}
+

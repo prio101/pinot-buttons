@@ -1,0 +1,7 @@
+/*Various kinds of colors and stuff*/
+
+@mixin variant($variant){
+
+  background-color:$variant;
+
+}

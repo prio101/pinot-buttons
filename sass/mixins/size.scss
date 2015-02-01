@@ -1,0 +1,9 @@
+@mixin sizes($padding-horizontal,$padding-vertical ){
+
+  padding: $padding-horizontal $padding-vertical;
+  letter-spacing: $letter-spacing;
+  border-radius:$border-radius;
+  margin-bottom: $margin-bottom;
+  display: inline-block;
+
+}

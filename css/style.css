@@ -1,0 +1,44 @@
+/* Add the vars and mixins */
+/* List of vars */
+/* Mixnis */
+/* mixin sizes */
+/* Typo */
+/*Variant of buttons*/
+/*Various kinds of colors and stuff*/
+/* Add the partials */
+/* List of vars */
+/* Mixnis */
+/* mixin sizes */
+/* Typo */
+/*Variant of buttons*/
+/*Pi button styles*/
+.pi-big {
+  padding: 20px 15px;
+  letter-spacing: 0.5em;
+  border-radius: 5px;
+  margin-bottom: 1px;
+  display: inline-block;
+  font-family: "Monostate", sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  color: #ffffff; }
+
+.pi-default {
+  background-color: #32A367; }
+
+.pi-primary {
+  background-color: #0093FC; }
+
+.pi-night {
+  background-color: #293C40; }
+
+.pi-warn {
+  background-color: #BF4724; }
+
+.pi-retro {
+  background-color: #5A3779; }
+
+/* Core mixins */
+/*Various kinds of colors and stuff*/
+
+/*# sourceMappingURL=style.css.map */
