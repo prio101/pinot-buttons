@@ -7,3 +7,15 @@
 * Different states
 
 * Then go for specific extra styles
+
+## PI States
+
+**Must complete states**
+
+* :active ,
+* .active ,
+* :hover ,
+* :focus ,
+* .focus ,
+* .disabled,
+* [disabled]

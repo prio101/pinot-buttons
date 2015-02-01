@@ -11,10 +11,12 @@ $margin-bottom:1px;
 
 $padding-horizontal-big:20px;
 $padding-vertical-big:20px;
-$padding-horizontal-mid:10px;
+$padding-horizontal-mid:15px;
 $padding-vertical-mid:10px;
-$padding-horizontal-small:8px;
+$padding-horizontal-small:10px;
 $padding-vertical-small:8px;
+
+
 
 
 
@@ -25,6 +27,7 @@ $font-size-mid:.8em;
 $font-size-small:.5em;
 $font-weight: 600;
 $font-color:#ffffff;
+$line-height:0.1em;
 
 
 
@@ -42,3 +45,7 @@ $pi-retro:#5A3779;
 $pi-water:#C6C4C8;
 
 $border-color:#001728;
+
+//Smooth
+$time-span:1;
+$new-color:#FE0086;

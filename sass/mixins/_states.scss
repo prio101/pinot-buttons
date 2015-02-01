@@ -1,0 +1,20 @@
+/*Styles for different states*/
+
+@mixin states($background-color){
+
+    &:hover,&:focus,&.focus,&:active,&.active{
+        background-color: darken($background-color,15%);
+        border-color: darken($border-color,10%);
+
+    }
+
+    &.disabled,[disabled]{
+        &:hover,&:focus,&.focus,&:active,&.active{
+        background-color:$background-color;
+        border-color: lighten($border-color,10%);
+        }
+    }
+
+}
+
+

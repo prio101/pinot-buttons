@@ -31,25 +31,34 @@
 .pi-default{
 
   @include variant($pi-default);
+  @include states($pi-default);
+
 }
 
 .pi-primary{
   @include variant($pi-primary) ;
+  @include states($pi-primary) ;
 
 }
 
 .pi-night{
   @include variant($pi-night);
+  @include states($pi-night);
 }
 
 .pi-warn{
   @include variant($pi-warning);
+  @include states($pi-warning);
 }
 
 .pi-retro{
   @include variant($pi-retro);
+  @include states($pi-retro);
 }
 
 .pi-water{
   @include variant($pi-water);
+  @include states($pi-water) ;
 }
+
+
