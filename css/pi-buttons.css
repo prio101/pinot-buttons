@@ -128,16 +128,16 @@
       border-color: #00345b; }
 
 .pi-water {
-  background-color: #C6C4C8;
+  background-color: #EBF4FA;
   border: solid 1px #001728; }
   .pi-water:hover, .pi-water:focus, .pi-water.focus, .pi-water:active, .pi-water.active {
-    background-color: #a09ca3;
+    background-color: #aed2eb;
     border-color: black; }
   .pi-water.disabled, .pi-water [disabled] {
     opacity: 0.55;
     filter: Alpha(opacity=55); }
     .pi-water.disabled:hover, .pi-water.disabled:focus, .pi-water.disabled.focus, .pi-water.disabled:active, .pi-water.disabled.active, .pi-water [disabled]:hover, .pi-water [disabled]:focus, .pi-water [disabled].focus, .pi-water [disabled]:active, .pi-water [disabled].active {
-      background-color: #C6C4C8;
+      background-color: #EBF4FA;
       border-color: #00345b; }
 
 /*Extra button styles*/
