@@ -1,9 +1,9 @@
 # Pinot Buttons
 ---
 
-![Pinot Logo]()
+![Pinot Logo](https://raw.githubusercontent.com/prio101/pinot-buttons/master/logo.jpg)
 
-[Website]()
+[Pinot Buttons](http://prio101.github.io/pinot-buttons/)
 
 ## Features:
 
@@ -11,4 +11,5 @@
 * Highly Customizable
 * Cutting Edge Technology
 * Elegant Look
+* Few Different styles to choose from
 

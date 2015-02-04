@@ -1,4 +1,6 @@
 @mixin opacity(){
       opacity: 0.55;
-      filter: opacity(55%);
+
+      filter: Alpha(opacity= 55 );
+
 }
